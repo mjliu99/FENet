@@ -1,2 +1,2 @@
-# FedGCL
-A frequency-enhanced graph contrastive learning (FedGCL), which leverages both time-domain and frequency-domain information in brain signals to facilitate data-efficient psychiatric disorder detection.
+# FENet
+A novel Frequency-Enhanced Network that integrates frequency domain analysis into representation learning (FENet for abbreviation), enabling the detection of psychiatric disorders even with limited samples.
